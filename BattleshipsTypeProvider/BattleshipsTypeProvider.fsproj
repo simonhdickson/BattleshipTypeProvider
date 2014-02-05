@@ -56,7 +56,6 @@
     <Compile Include="ProvidedTypes\Signatures\ProvidedTypes.fsi" />
     <Compile Include="ProvidedTypes\Code\ProvidedTypes.fs" />
     <Compile Include="ProvidedTypes\Code\Debug.fs" />
-    <Compile Include="Battleships.fs" />
     <Compile Include="BattleshipProvider.fs" />
     <None Include="packages.config" />
   </ItemGroup>
